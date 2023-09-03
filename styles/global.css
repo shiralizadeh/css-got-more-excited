@@ -1,0 +1,32 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css);
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.slidev-layout {
+  padding: 5rem 4rem;
+}
+
+li {
+  list-style: outside;
+}
+
+.rounded-io {
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 50%;
+}
+
+.slidev-layout + div {
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 50%;
+}
+
+pre {
+  text-align: left;
+}
