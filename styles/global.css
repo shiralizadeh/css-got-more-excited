@@ -5,6 +5,20 @@
   font-family: "Roboto", sans-serif;
 }
 
+h1 {
+  font-weight: bold;
+}
+
+h1,
+.color-primary {
+  color: rgb(192, 132, 252);
+}
+
+h2,
+strong {
+  color: rgb(233, 213, 255);
+}
+
 .slidev-layout {
   padding: 5rem 4rem;
 }
@@ -30,4 +44,19 @@ li {
 
 pre {
   text-align: left;
+}
+
+.diagram,
+.code {
+  height: 100%;
+  margin: 0 auto;
+}
+
+.code {
+  margin-top: -2rem;
+}
+
+.diagram {
+  margin-top: 1rem;
+  height: 90%;
 }

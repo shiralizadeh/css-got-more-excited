@@ -4,14 +4,17 @@ image: images/profile.jpg
 ---
 
 <h2>
-  <span class="color-primary">
   HELLO! 
-  </span>
 </h2>
 <h1 class="text-white">
   I’m Mohamad.
 </h1>
+<p>
+  Senior Frontend Engineer at iO
+</p>
 
-```tsx
-export default () => <p>I’m striving for React & Javascript</p>;
+```css
+*::after {
+  content: "I’m striving for CSS & Javascript";
+}
 ```
