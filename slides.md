@@ -66,6 +66,18 @@ src: ./slides/04-has-99.md
 ---
 
 ---
+src: ./slides/05-textwrap-01.md
+---
+
+---
+src: ./slides/05-textwrap-02.md
+---
+
+---
+src: ./slides/05-textwrap-99.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 
