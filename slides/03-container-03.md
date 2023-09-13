@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: cover
 class: text-2xl
 ---
 
-# Style Queries
+# [Let's play Container Queries!](https://codepen.io/shiralizadeh/pen/gOZWJJg)
 
-## It allows you to query the **style** values of a parent container.
-
-<img src="/images/03-container-03.png" class="h-90" />

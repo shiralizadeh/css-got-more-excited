@@ -34,11 +34,11 @@ src: ./slides/03-container-02.md
 ---
 
 ---
-src: ./slides/03-container-99.md
+src: ./slides/03-container-03.md
 ---
 
 ---
-src: ./slides/03-container-03.md
+src: ./slides/03-container-99.md
 ---
 
 ---
@@ -47,6 +47,22 @@ src: ./slides/03-container-04.md
 
 ---
 src: ./slides/03-container-05.md
+---
+
+---
+src: ./slides/03-container-06.md
+---
+
+---
+src: ./slides/04-has-01.md
+---
+
+---
+src: ./slides/04-has-02.md
+---
+
+---
+src: ./slides/04-has-99.md
 ---
 
 ---

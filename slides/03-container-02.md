@@ -1,7 +1,8 @@
 ---
-layout: cover
+layout: default
 class: text-2xl
 ---
 
-# [Let's play Container Queries!](https://codepen.io/shiralizadeh/pen/gOZWJJg)
+# Container Queries
 
+<img src="/images/03-container-02.png" class="h-90 m-auto" />
