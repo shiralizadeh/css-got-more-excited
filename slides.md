@@ -78,6 +78,22 @@ src: ./slides/05-textwrap-99.md
 ---
 
 ---
+src: ./slides/06-nesting-01.md
+---
+
+---
+src: ./slides/06-nesting-02.md
+---
+
+---
+src: ./slides/06-nesting-03.md
+---
+
+---
+src: ./slides/06-nesting-99.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 
