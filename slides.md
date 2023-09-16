@@ -22,7 +22,7 @@ src: ./slides/01-start-03.md
 ---
 
 ---
-src: ./slides/01-css-01.md
+src: ./slides/01-responsive-01.md
 ---
 
 ---
@@ -78,6 +78,10 @@ src: ./slides/05-textwrap-99.md
 ---
 
 ---
+src: ./slides/01-css-01.md
+---
+
+---
 src: ./slides/06-nesting-01.md
 ---
 
@@ -91,6 +95,26 @@ src: ./slides/06-nesting-03.md
 
 ---
 src: ./slides/06-nesting-99.md
+---
+
+---
+src: ./slides/07-layers-01.md
+---
+
+---
+src: ./slides/07-layers-02.md
+---
+
+---
+src: ./slides/07-layers-03.md
+---
+
+---
+src: ./slides/07-layers-04.md
+---
+
+---
+src: ./slides/07-layers-99.md
 ---
 
 ---
