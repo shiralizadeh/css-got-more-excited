@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: images/s-02.jpeg
+image: images/bg-02.jpg
 class: text-2xl whitespace-nowrap
 ---
 
