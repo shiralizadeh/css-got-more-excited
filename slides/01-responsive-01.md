@@ -1,7 +1,7 @@
 ---
 layout: cover
-class: text-2xl
+class: text-2xl whitespace-nowrap
 ---
 
-# Next level of Responsive Design
+# Next level of **Responsive** Design
 ## What's new!
