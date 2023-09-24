@@ -138,6 +138,22 @@ src: ./slides/08-layers-99.md
 ---
 
 ---
+src: ./slides/09-scope-01.md
+---
+
+---
+src: ./slides/09-scope-02.md
+---
+
+---
+src: ./slides/09-scope-03.md
+---
+
+---
+src: ./slides/09-scope-99.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 
