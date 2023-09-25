@@ -154,6 +154,22 @@ src: ./slides/09-scope-99.md
 ---
 
 ---
+src: ./slides/10-transform-01.md
+---
+
+---
+src: ./slides/10-transform-02.md
+---
+
+---
+src: ./slides/10-transform-03.md
+---
+
+---
+src: ./slides/10-transform-99.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

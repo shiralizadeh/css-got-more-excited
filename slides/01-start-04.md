@@ -8,4 +8,3 @@ class: text-2xl whitespace-nowrap
 
 - Next level of **Responsive** Design
 - Innovations in **CSS**
-- It's **Browser** time!
