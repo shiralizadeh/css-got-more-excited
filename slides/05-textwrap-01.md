@@ -3,7 +3,7 @@ layout: default
 class: text-2xl
 ---
 
-# `text-wrap: balance;`
+# `text-wrap`
 
 ## It lets the browser wrap text effectively between lines.
 

@@ -170,6 +170,14 @@ src: ./slides/10-transform-99.md
 ---
 
 ---
+src: ./slides/11-others-01.md
+---
+
+---
+src: ./slides/11-others-02.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 
