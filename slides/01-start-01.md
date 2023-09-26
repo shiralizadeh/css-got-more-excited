@@ -11,5 +11,5 @@ layout: cover
 </h2>
 
 <p class="text-gray-400">
-Presented with ❤️ by Mohamad Shiralizadeh
+Presented with <span class="inline-block animate__animated animate__infinite animate__heartBeat">❤️</span> by Mohamad Shiralizadeh
 </p>
