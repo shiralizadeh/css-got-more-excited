@@ -3,4 +3,4 @@ layout: cover
 class: text-2xl
 ---
 
-# [Let's play Nesting!](https://codepen.io/shiralizadeh/pen/jOXLWgb)
+# [Let's play Nesting!](https://codepen.io/shiralizadeh/pen/jOXLWgb?editors=0100)

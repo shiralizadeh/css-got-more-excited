@@ -1,7 +1,8 @@
 ---
-layout: cover
+layout: image
+image: /images/office-de.png
 ---
 
-<video style="position: absolute; right: 0; left: 0; top: 0; bottom: 0;" loop autoplay>
-  <source src="/images/office.mp4" type="video/mp4">
-</video>
+<h1 style="color: #fff;">
+  Thanks fo having us!
+</h1>

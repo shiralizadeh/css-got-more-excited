@@ -30,6 +30,10 @@ src: ./slides/01-start-05.md
 ---
 
 ---
+src: ./slides/01-start-06.md
+---
+
+---
 src: ./slides/01-responsive-01.md
 ---
 

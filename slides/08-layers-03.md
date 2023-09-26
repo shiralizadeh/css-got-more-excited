@@ -3,5 +3,5 @@ layout: cover
 class: text-2xl
 ---
 
-# [Let's play `@layer`!](https://codepen.io/shiralizadeh/pen/qBLPdeL)
+# [Let's play `@layer`!](https://codepen.io/shiralizadeh/pen/qBLPdeL?editors=1000)
 
