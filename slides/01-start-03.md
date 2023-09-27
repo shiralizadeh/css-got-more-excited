@@ -14,6 +14,6 @@ image: images/profile.png
 
 ```css
 *::after {
-  content: "I'm here because, I’m striving for CSS & Javascript";
+  content: "I'm here because I’m striving for CSS & Javascript";
 }
 ```

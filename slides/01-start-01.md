@@ -3,7 +3,7 @@ layout: cover
 ---
 
 <h1 class="font-bold text-purple-400">
-  CSS got more excited!
+  CSS got more exciting!
 </h1>
 
 <h2 class="text-purple-200">
